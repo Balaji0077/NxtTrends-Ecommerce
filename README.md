@@ -1,5 +1,10 @@
 **Nxt Trendz**
 
+Technologies Used 🛠️
+React.js: Frontend library for building interactive UIs.
+CSS: Styling for responsive and visually appealing layouts.
+JavaScript: Logic implementation and interactivity.
+React Router: Navigation between pages.
 
 ### Set Up Instructions
 
